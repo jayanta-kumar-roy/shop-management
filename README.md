@@ -1,2 +1,3 @@
 # shop-management
-made watching dennis ivy videos
+This is an web app for shopping order management.
+Great Thanks to Dennis Ivy for his tutorials.
